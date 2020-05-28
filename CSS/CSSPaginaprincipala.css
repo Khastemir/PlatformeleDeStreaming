@@ -1,0 +1,12 @@
+body{background-color:black;}
+.container {position: relative;}
+.center {
+  color:#5C5B5B;
+  position: absolute;
+  top: 43%;
+  left: 15%;
+  font-size: 70px;
+  border: 11px solid #C8CCCB;
+  border-radius: 40px 40px 40px 40px;
+  background: rgba(194,190,190,0.54); }
+img {  width: 33%; height: 33%; }
